@@ -16,14 +16,8 @@ Lucifer Launcher Project
 - **v3.0**: 동적 UI + 명령어 커스터마이징 기능
 
 ## 다운로드
-- [정식 다운로드 링크 (Filecast)](https://filecast.co.kr/...)
 - [개발자 사이트](https://www.dgmayor.com/380)
 
-## 실행 화면
-![screenshot](screenshots/lsj_launcher.jpg)
-
-## 라이선스
-MIT License / CC BY-SA 4.0 중 택 1 (논의 가능)
 
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
@@ -41,11 +35,5 @@ MIT License / CC BY-SA 4.0 중 택 1 (논의 가능)
 - **v3.0**: Fully dynamic character with customizable UI settings and command-based controls
 
 ## Download
-- [Official Download (via Filecast)](https://filecast.co.kr/...)
 - [Developer Website](https://www.dgmayor.com/380)
 
-## Screenshot
-![screenshot](screenshots/lsj_launcher.jpg)
-
-## License
-Distributed under either the MIT License or Creative Commons Attribution-ShareAlike 4.0 (CC
