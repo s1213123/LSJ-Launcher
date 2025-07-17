@@ -36,4 +36,12 @@ Lucifer Launcher Project
 
 ## 다운로드
 - [개발자 사이트](https://www.dgmayor.com/380)
+- 사용 동영상 : https://www.youtube.com/watch?v=wO53HrRi5zQ&t=189s
 
+[파일]
+용량 문제로 10개 파일로 분할 되어 있습니다. 조만간 소스 파일과 함께 공유 예정입니다.
+
+취업 원합니다. I want to be hired as Ai and Robot Engingineer.
+call 82)010-2021-3627
+
+I did it with open ai assistant Canlian...
