@@ -2,7 +2,7 @@
 Lucifer Launcher Project
 
 <p align="center">
-  <img src="lsj 런처.jpg" width="400" alt="LSJ Launcher Preview">
+  <img src="lsj 런처 사진 업로드용.jpg" width="600" alt="LSJ Launcher Preview">
 </p>
 
 # LSJ-Launcher-v3.0
