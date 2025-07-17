@@ -1,6 +1,14 @@
 # LSJ-Launcher-v3.0
 Lucifer Launcher Project
 
+<p align="center">
+  <img src="lsj 런처.jpg" width="400" alt="LSJ Launcher Preview">
+</p>
+
+# LSJ-Launcher-v3.0
+🦖 Lucifer Launcher Project
+
+
 # LSJ 런처 (LSJ Launcher)
 
 🦖 캐릭터 기반 인터페이스를 통해 다양한 기능을 수행할 수 있는 Windows 유틸리티 런처입니다.
